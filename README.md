@@ -1,6 +1,6 @@
 # RIDMI
 
-✍️ Nombre del equipo: 
+✍️ Nombre del equipo: Leopardas
                      
-✍️ Integrantes del equipo: 
+✍️ Integrantes del equipo:  Iris, Maricarmen, Silvina, Cristina, Andrea y Bianca
    
